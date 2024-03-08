@@ -27,3 +27,7 @@ THEN I find a concise, descriptive title
 
 ## Deployed Application
 The project has been deployed [here](https://kristyyip.github.io/module-01-challenge/).
+
+<img width="1423" alt="Screenshot 2024-03-07 at 11 56 39 PM" src="https://github.com/kristyyip/module-01-challenge/assets/161188263/c35d3149-ee00-4ae1-917f-9357d8a1ca51">
+<img width="1418" alt="Screenshot 2024-03-07 at 11 56 54 PM" src="https://github.com/kristyyip/module-01-challenge/assets/161188263/34d57f78-5345-45f2-98a2-2b50ad91c7e2">
+
